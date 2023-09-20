@@ -1,6 +1,5 @@
 package pattern_matching_records;
 
-import pattern_matching_records.Point;
 public class Main {
 
     public static void main(String ... args) {
